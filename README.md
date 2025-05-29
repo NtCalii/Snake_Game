@@ -19,7 +19,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
   
 Feito por **[Nathan Caliani](https://github.com/NtCalii)**  
 
-🙏 Agradecimentos especiais ao professor do canal **setprogramacao** no youtube pelo excelente conteúdo!
-<br>
-
 </div>
